@@ -1,7 +1,7 @@
-# pi_estimator
+# Pi_estimator
 #Python
 
-Pour pouvoir tester cet exemple, veuillez suivre les étapes ci-dessous dans un terminal:
+Pour pouvoir tester cet exemple, veuillez suivre les étapes ci-dessous dans un terminal:\
 terminal ouvert
 pip install pyspark
 git clone https://github.com/sing0019/pi_estimator
