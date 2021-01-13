@@ -20,11 +20,11 @@ python script/estimator_pi.py\
 
 <br />
 | N = 1 000 000 |	spark	| numpy |
-| : ----: | : ---: | : ---: |
+| :----- | :----: | ----: |
 | Estimation de pi |	3.145560	| 3.143464 |
 | Ecart % Math.pi	| 0.003967	| 0.001871 |
 | Total time en secondes	| 0.191222 | 0.567063 |
 
 Nous avons constaté que lorsqu'on passe de n = 100.000 à n = 1.000.000 <br />
 les valeurs estimées de pi se rapprochent plus de Math.pi. <br />
-L'estimation devient plus précise.
+Donc l'estimation devient plus précise.
