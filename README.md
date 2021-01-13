@@ -2,11 +2,11 @@
 Ce projet a pour but de faire une comparaison entre les valeurs estimées de PI d'une par Spark et d'autre par Numpy.		
 
  
- Pour pouvoir tester cet exemple, veuillez ouvrir un terminal et suivre les étapes ci-dessous:\		
- pip install pyspark\		
- git clone https://github.com/sing0019/pi_estimator \		
- cd pi_estimator\		
- python script/estimator_pi.py\		
+ Pour pouvoir tester cet exemple, veuillez ouvrir un terminal et suivre les étapes ci-dessous: <br />		
+ pip install pyspark  <br />			
+ git clone https://github.com/sing0019/pi_estimator  <br />	
+ cd pi_estimator  <br />	
+ python script/estimator_pi.py  <br />	
 
   
   # Tableau recaputilatif 		
